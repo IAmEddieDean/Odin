@@ -1,0 +1,2 @@
+# Odin
+A crazy idea.
